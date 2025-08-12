@@ -1,10 +1,10 @@
 {
   "company_info": {
-    "name": "Hari Om Food and Chemicals",
-    "gstin": "09AVAPG9855D1ZE",
-    "pan": "AVAPG9855D",
-    "address_line1": "Bada Bazar, Sahawar",
-    "address_line2": "Dist. Kasganj, Uttar pradesh",
+    "name": "SYNTHETIC SOLUTIONS LTD.",
+    "gstin": "29ABCDE1234F1Z5",
+    "pan": "ABCDE1234F",
+    "address_line1": "123 Tech Park, Silicon Avenue",
+    "address_line2": "Bangalore, Karnataka - 560100",
     "phone": "+91 98765 43210",
     "email": "contact@syntheticsolutions.com",
     "website": "www.syntheticsolutions.com",
@@ -17,7 +17,7 @@
     "branch": "Main Branch, Bangalore"
   },
   "invoice_settings": {
-    "invoice_prefix": "HFC-INV-2025-",
-    "terms_and_conditions": "1. Goods once sold will not be taken back.\n2. Interest @18% p.a. will be charged on after 30 days delayed payments.\n3. All disputes are subject to Bangalore jurisdiction only.\t \t\t\t\t\t\t\t\t\t"
+    "invoice_prefix": "SS-INV-",
+    "terms_and_conditions": "1. Goods once sold will not be taken back.\n2. Interest @18% p.a. will be charged on delayed payments.\n3. All disputes are subject to Bangalore jurisdiction only."
   }
 }
