@@ -69,8 +69,8 @@ Download the project files as a ZIP or clone the repository using Git:
 
 Bash
 
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/djkalirdp/Professional-Billing-Inventory-Software.git
+cd Professional-Billing-Inventory-Software
 3. Create a Virtual Environment (Recommended):
 This keeps the project's dependencies isolated from other Python projects.
 
