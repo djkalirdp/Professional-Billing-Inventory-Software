@@ -70,8 +70,11 @@ Download the project files as a ZIP or clone the repository using Git:
 Bash
 
 git clone https://github.com/djkalirdp/Professional-Billing-Inventory-Software.git
+
 cd Professional-Billing-Inventory-Software
+
 3. Create a Virtual Environment (Recommended):
+
 This keeps the project's dependencies isolated from other Python projects.
 
 Bash
@@ -87,9 +90,8 @@ source venv/bin/activate
 4. Install Dependencies:
 Install all the required libraries from the requirements.txt file.
 
-Bash
-
 pip install -r requirements.txt
+
 5. Initial Setup:
 
 Create Folders: In the main project directory, create four empty folders: data, invoices, reports, and backups.
@@ -101,9 +103,8 @@ Configure Settings: Open the settings.json file and replace the placeholder data
 6. Run the Application:
 Once everything is set up, run the following command in your terminal:
 
-Bash
-
 python main.py
+
 📂 File Structure
 .
 ├── main.py                # Main application, GUI, and event handling code
